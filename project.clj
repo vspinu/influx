@@ -3,6 +3,6 @@
   :url "http://github.com/owainlewis/influx"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.7.0"]
-                 [http-kit "2.1.18"]
-                 [cheshire "5.6.1"]])
+  :dependencies [[org.clojure/clojure "1.10.0"]
+                 [http-kit "2.5.0"]
+                 [cheshire "5.10.0"]])
